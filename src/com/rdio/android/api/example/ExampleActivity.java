@@ -75,8 +75,8 @@ public class ExampleActivity extends Activity implements RdioListener {
 	private static Rdio rdio;
 
 	// TODO CHANGE THIS TO YOUR APPLICATION KEY AND SECRET
-	//private static final String appKey = "PutYourKeyHere";
-	//private static final String appSecret = "PutYourSecretHere";
+	private static final String appKey = "sbv45atxqhtvk3fqgy2agfhm ";
+	private static final String appSecret = "h2fYWV7n5v";
 
 	private static String accessToken = null;
 	private static String accessTokenSecret = null;
